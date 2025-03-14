@@ -1,5 +1,28 @@
-# NBE3-4-3-Team12
-데브코스 3기 4회차 3차프로젝트 12팀
+![15](https://github.com/user-attachments/assets/063ae939-8d9d-4fde-a089-91dbb4f39d8e)![10](https://github.com/user-attachments/assets/6c1cd55d-1fe1-4bb4-8fb0-a6af45b34381)# NBE3 3차 프로젝트
+지난 2차 프로젝트를 코틀린 마이그레이션과 추가기능 구현
+
+# MOYODANG 모임 구인 사이트
+MOYODANG은 소모임 인원을 구하는 웹사이트입니다.
+유저가 카카오 소셜 로그인을 통해 로그인하여 모임을 생섣하거나 참가할 수 있고 모임원 모집이 마감되면 투표를 통해 모임 장소를 설정하고 카카오 지도 API를 이용하여 지도에 마커를 생성하도록 개발하였습니다.
+
+# 주요기능
+- 카카오 소셜 로그인
+- 모임 생성/수정/삭제/참가/조회/맴버가 소속된 그룹 조회
+- 투표 생성/수정/삭제/조회/참가/투표 항목 추가
+- 카테고리 생성/수정/삭제/조회
+- 카카오 지도 API
+- 관리자 페이지
+- 실시간 채팅
+- 인기글 조회
+
+#기여
+- 모임, 카테고리 CRUD 구현
+- 프론트엔드 디자인 제작 및 구현
+- 도커 이미지, 컨테이너 구현
+- 카카오 지도 API 마커 구현
+- 모임 컨트롤러 테스트
+- 코틀린 마이그레이션션
+
 
 # Git 협업 가이드라인
 
@@ -153,6 +176,50 @@ IntelliJ IDEA에서는 다음 기능들을 활용할 수 있습니다:
 3. 충돌 해결
    - Merge 충돌 발생 시 시각적 도구 제공
    - 좌측/우측/병합 결과를 쉽게 비교 가능
+   - 
+#PPT
+![4](https://github.com/user-attachments/assets/f1de8308-12e3-42d1-bb92-723566959612)
+![5](https://github.com/user-attachments/assets/8721b7fe-441b-45d1-9c93-c5740f941c75)
+![7](https://github.com/user-attachments/assets/11d15900-d594-4ed2-96b3-ea43bfbdecaf)
+![8](https://github.com/user-attachments/assets/5ea3add5-8bdd-4b94-9bc0-a0b93d007af1)
+![9](https://github.com/user-attachments/assets/c6c7d5be-04cc-4226-93b1-68c191f34e18)
+![10](https://github.com/user-attachments/assets/3999fc8a-2cbc-4301-ad93-01c409b0dc6c)
+![12](https://github.com/user-attachments/assets/1cc0ea1d-2eef-438e-a56a-13f178a675ae)
+![13](https://github.com/user-attachments/assets/5fbeea2e-64a5-45b0-9aa9-669462a900d0)
+![14](https://github.com/user-attachments/assets/e8d49c51-836f-40c1-a465-38aaee26813f)
+![15](https://github.com/user-attachments/assets/f4201498-8f15-4f27-888f-58c544bf82bf)
+
+추가 구현
+![6](https://github.com/user-attachments/assets/b1b0b888-24de-46d1-8cb1-46a83f901168)
+![7](https://github.com/user-attachments/assets/fca73e28-34bc-4379-bce2-5e38e31eea82)
+![9](https://github.com/user-attachments/assets/cf14d02f-0f19-46b5-8729-35b2419e4554)
+![10](https://github.com/user-attachments/assets/f61b5a38-0a42-461f-8e9f-736aa3863eba)
+![11](https://github.com/user-attachments/assets/2ec6daf4-3432-4081-88fe-05e91317bb27)
+![12](https://github.com/user-attachments/assets/25b3da23-b2f5-4368-a246-235689f3d798)
+![13](https://github.com/user-attachments/assets/d80b74c0-170e-4520-98af-c8c39885dce2)
+![14](https://github.com/user-attachments/assets/203b5911-e9ba-4c60-9af4-e85ac49ea86f)
+![17](https://github.com/user-attachments/assets/e6ae2971-dff5-478a-9cc5-bf8884207c48)
+![18](https://github.com/user-attachments/assets/2a15724f-fe5f-4e20-b750-1a4965a666d9)
+![19](https://github.com/user-attachments/assets/17747f0f-a836-4416-9877-e54a1a263e32)
+![20](https://github.com/user-attachments/assets/cafeadd9-ffab-4dfe-af7c-79bf7084f755)
+
+
+https://github.com/user-attachments/assets/7799b38f-9c4f-4763-86cc-141002e8649c
+
+#도커
+도커 이미지
+![image](https://github.com/user-attachments/assets/da63639d-e9f0-42c6-a6ae-1835becaca3d)
+
+도커 컨테이너
+![image](https://github.com/user-attachments/assets/6fc68604-0773-48c5-a8f1-05125fb45569)
+
+로컬환경 성능
+![image](https://github.com/user-attachments/assets/9c4ed3d3-b896-44f2-86dc-ac87890476a5)
+
+도커환경 성능
+![도커 환경](https://github.com/user-attachments/assets/97a3efe7-d9c3-4e92-8d44-47f5293c8d72)
+
+
 
 
 
