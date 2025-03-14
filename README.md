@@ -177,19 +177,7 @@ IntelliJ IDEA에서는 다음 기능들을 활용할 수 있습니다:
    - Merge 충돌 발생 시 시각적 도구 제공
    - 좌측/우측/병합 결과를 쉽게 비교 가능
    - 
-#PPT
-![4](https://github.com/user-attachments/assets/f1de8308-12e3-42d1-bb92-723566959612)
-![5](https://github.com/user-attachments/assets/8721b7fe-441b-45d1-9c93-c5740f941c75)
-![7](https://github.com/user-attachments/assets/11d15900-d594-4ed2-96b3-ea43bfbdecaf)
-![8](https://github.com/user-attachments/assets/5ea3add5-8bdd-4b94-9bc0-a0b93d007af1)
-![9](https://github.com/user-attachments/assets/c6c7d5be-04cc-4226-93b1-68c191f34e18)
-![10](https://github.com/user-attachments/assets/3999fc8a-2cbc-4301-ad93-01c409b0dc6c)
-![12](https://github.com/user-attachments/assets/1cc0ea1d-2eef-438e-a56a-13f178a675ae)
-![13](https://github.com/user-attachments/assets/5fbeea2e-64a5-45b0-9aa9-669462a900d0)
-![14](https://github.com/user-attachments/assets/e8d49c51-836f-40c1-a465-38aaee26813f)
-![15](https://github.com/user-attachments/assets/f4201498-8f15-4f27-888f-58c544bf82bf)
-
-추가 구현
+#PPT (추가 구현 기능)
 ![6](https://github.com/user-attachments/assets/b1b0b888-24de-46d1-8cb1-46a83f901168)
 ![7](https://github.com/user-attachments/assets/fca73e28-34bc-4379-bce2-5e38e31eea82)
 ![9](https://github.com/user-attachments/assets/cf14d02f-0f19-46b5-8729-35b2419e4554)
@@ -202,7 +190,6 @@ IntelliJ IDEA에서는 다음 기능들을 활용할 수 있습니다:
 ![18](https://github.com/user-attachments/assets/2a15724f-fe5f-4e20-b750-1a4965a666d9)
 ![19](https://github.com/user-attachments/assets/17747f0f-a836-4416-9877-e54a1a263e32)
 ![20](https://github.com/user-attachments/assets/cafeadd9-ffab-4dfe-af7c-79bf7084f755)
-
 
 https://github.com/user-attachments/assets/7799b38f-9c4f-4763-86cc-141002e8649c
 
