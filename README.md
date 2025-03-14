@@ -1,4 +1,4 @@
-![15](https://github.com/user-attachments/assets/063ae939-8d9d-4fde-a089-91dbb4f39d8e)![10](https://github.com/user-attachments/assets/6c1cd55d-1fe1-4bb4-8fb0-a6af45b34381)# NBE3 3차 프로젝트
+# NBE3 3차 프로젝트
 지난 2차 프로젝트를 코틀린 마이그레이션과 추가기능 구현
 
 # MOYODANG 모임 구인 사이트
